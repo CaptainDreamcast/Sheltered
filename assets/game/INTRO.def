@@ -1,0 +1,35 @@
+[Header]
+Sprites = game/INTRO.sff
+
+[STORYSTART]
+
+[Image 1]
+anim = 4
+
+[Text 1]
+Speaker = " "
+Text = " "
+
+
+[Image 1]
+anim = 1
+
+[Text 1]
+Speaker = " "
+Text = "You love anime. Don't even deny it, I can see the Hatsune Miku figurine on your desk."
+
+[Image 1]
+anim = 2
+
+[Text 1]
+Speaker = " "
+Text = "So when they bring out a new Nekoko figurine in Akihabara, you make your way there, despite the terrible weather."
+
+[Image 1]
+anim = 3
+
+[Text 1]
+Speaker = " "
+Text = "It's also on the other side of the Pacific, but it's not like that's going to be a problem, after all you're not... SHELTERED!"
+
+[Game]
